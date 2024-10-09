@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-/static/css/main.8b2c1ada.css",
-    "main.js": "/portfolio-/static/js/main.9c4f619c.js",
+    "main.js": "/portfolio-/static/js/main.0a7e301d.js",
     "static/js/787.2d5fea0f.chunk.js": "/portfolio-/static/js/787.2d5fea0f.chunk.js",
     "static/media/word.jpg": "/portfolio-/static/media/word.295c9902d9c9139821b4.jpg",
     "static/media/DDU-GKY_page-0001.jpg": "/portfolio-/static/media/DDU-GKY_page-0001.32649f6afa4cdd227d9e.jpg",
@@ -12,11 +12,11 @@
     "static/media/hospital.jpg": "/portfolio-/static/media/hospital.2226d415e1489c6cce26.jpg",
     "index.html": "/portfolio-/index.html",
     "main.8b2c1ada.css.map": "/portfolio-/static/css/main.8b2c1ada.css.map",
-    "main.9c4f619c.js.map": "/portfolio-/static/js/main.9c4f619c.js.map",
+    "main.0a7e301d.js.map": "/portfolio-/static/js/main.0a7e301d.js.map",
     "787.2d5fea0f.chunk.js.map": "/portfolio-/static/js/787.2d5fea0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b2c1ada.css",
-    "static/js/main.9c4f619c.js"
+    "static/js/main.0a7e301d.js"
   ]
 }
