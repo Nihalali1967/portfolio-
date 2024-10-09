@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-/static/css/main.32d357b4.css",
-    "main.js": "/portfolio-/static/js/main.4e4d0e84.js",
+    "main.css": "/portfolio-/static/css/main.8b2c1ada.css",
+    "main.js": "/portfolio-/static/js/main.9c4f619c.js",
     "static/js/787.2d5fea0f.chunk.js": "/portfolio-/static/js/787.2d5fea0f.chunk.js",
+    "static/media/word.jpg": "/portfolio-/static/media/word.295c9902d9c9139821b4.jpg",
+    "static/media/DDU-GKY_page-0001.jpg": "/portfolio-/static/media/DDU-GKY_page-0001.32649f6afa4cdd227d9e.jpg",
     "static/media/car.jpg": "/portfolio-/static/media/car.f9706aadf1e4fb112a3b.jpg",
     "static/media/img2.png": "/portfolio-/static/media/img2.19d8fb7727a81436da7b.png",
+    "static/media/uipath.jpg": "/portfolio-/static/media/uipath.4243ca22ff8e04f392cf.jpg",
+    "static/media/react.jpg": "/portfolio-/static/media/react.6cef2517bfcf3cd82b43.jpg",
+    "static/media/hospital.jpg": "/portfolio-/static/media/hospital.2226d415e1489c6cce26.jpg",
     "index.html": "/portfolio-/index.html",
-    "main.32d357b4.css.map": "/portfolio-/static/css/main.32d357b4.css.map",
-    "main.4e4d0e84.js.map": "/portfolio-/static/js/main.4e4d0e84.js.map",
+    "main.8b2c1ada.css.map": "/portfolio-/static/css/main.8b2c1ada.css.map",
+    "main.9c4f619c.js.map": "/portfolio-/static/js/main.9c4f619c.js.map",
     "787.2d5fea0f.chunk.js.map": "/portfolio-/static/js/787.2d5fea0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32d357b4.css",
-    "static/js/main.4e4d0e84.js"
+    "static/css/main.8b2c1ada.css",
+    "static/js/main.9c4f619c.js"
   ]
 }
