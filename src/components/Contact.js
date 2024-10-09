@@ -22,12 +22,16 @@ const Contact = () => {
                             <img src={instagram} alt="" style={{border: 'none'}} />
                         </a>
                         <a className="ml-4" href="https://www.linkedin.com/in/nihal-ali-v-a72784235" target="_blank" rel="noreferrer">
+                        <img src={email} alt="" style={{border: 'none'}} />
+                            
+                        </a>
+                        <a className="ml-4" href="https://github.com/Nihalali1967" target="_blank" rel="noreferrer">
                             <img src={dribbble} alt="" style={{border: 'none'}} />
                         </a>
-                        <a className="ml-4" href="mailto:nihalali1967@gmail.com" target="_blank" rel="noreferrer">
-                            <img src={email} alt="" style={{border: 'none'}} />
-                        </a>
                     </div>
+                    <p className="my-3 text-white md:w-3/4 leading-[2]">+91 6282981209</p>
+               
+
                 </div>
                 {/* form */}
                 <div className="md:w-1/2">

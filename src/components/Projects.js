@@ -1,34 +1,39 @@
 import React from "react";
 import carImage from "../assets/projects/car.jpg";
 import saveImage from "../assets/projects/save.jpg";
+import hospitalImage from "../assets/projects/hospital.jpg"; // Corrected the import for hospital image
 
 const Projects = () => {
     const projects = [
         {
             title: "PRE OWNED WHEELS",
             description:
-                "It is an online platform for purchasing used vehicles, where customers can select or request, and own a vehicle with easy.Direct chat communication is also available for seamless interaction",
+                "It is an online platform for purchasing used vehicles, where customers can select or request, and own a vehicle with easy. Direct chat communication is also available for seamless interaction.",
             photo: carImage,
         },
-
         {
             title: "ROYAL DRIVE",
             description:
-                "This project is designed so as to be used by Car Rental Company specializing in renting cars to customers. It is an online system through which customers can view available cars, register, view profile and book car.",
+                "This project is designed so as to be used by a Car Rental Company specializing in renting cars to customers. It is an online system through which customers can view available cars, register, view profile and book cars.",
             photo: saveImage,
         },
+        {
+            title: "Be Highcare",
+            description:
+                "It's a hospital management system that includes patient invoicing, ERP, appointment booking, and employee duty arrangement with time slots.",
+            photo: hospitalImage, // Added the new project image
+        },
     ];
+
     return (
         <div className="md:px-10 px-7 my-8" id="projects">
             <h1 className="text-primary font-semibold text-3xl mt-16">
                 PROJECTS
             </h1>
             <p className="my-3 text-white md:w-3/4 leading-[2]">
-                I have worked on many projects over the course of being a Software Developer,
-                here are a few of my live
+                I have worked on many projects over the course of being a Software Developer, here are a few of my live
             </p>
-            {/* featured projects */}
-
+            {/* Featured projects */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-y-5 my-6 items-center justify-center">
                 {projects.map((project, index) => {
                     return (
@@ -48,7 +53,7 @@ const Projects = () => {
                             <h3 className="text-primary font-semibold text-lg">
                                 {project.title}
                             </h3>
-                            <p className=" text-white mt-1">{project.description}</p>
+                            <p className="text-white mt-1">{project.description}</p>
                         </div>
                     );
                 })}
