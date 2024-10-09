@@ -4,7 +4,7 @@ import '../App.css';
 const Services = () => {
     const services = [
         { id: 1, name: 'BSC COMPUTER SCIENCE', description: 'ERANAD KNOWLEDGE CITY ,Manjeri   (Calicut University)' },
-        { id: 2, name: 'DIPLOMA IN UI PATH', description: 'Course Completed in UiPath' },
+        
         { id: 3, name: 'SOFTWARE DEVELOPMENT', description: 'Successfully completed a software development course. Skilled in PHP, C++, ASP.NET, MVC, MS SQL, JavaScript, jQuery, and C#.' },
     ];
 
@@ -15,7 +15,7 @@ const Services = () => {
         { name: "jQuery" },
         { name: "MySQL" },
          { name: "PostgreSQL" },
-        { name: "MVC" },
+        { name: "Node Js" },
         { name: "HTML & CSS" },
         { name: "ASP .NET" },
         { name: "C#" },

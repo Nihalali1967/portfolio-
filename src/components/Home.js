@@ -18,7 +18,7 @@ const Home = () => {
                         <p className='md:w-96 font-bold text-xl'>SOFTWARE DEVELOPER</p>
 
                         <div className='mt-5'>
-                            <a href='https://drive.google.com/file/d/19CDK0k1o0-Zxl8l7gdWYfLnSZOqBiY96/view?usp=sharing' target="_blank">
+                            <a href='https://drive.google.com/file/d/1Qv6McUccLltPhvN5I4NLdFaNWkod47jR/view?usp=sharing' target="_blank">
                                 <button className='btn outline py-1.5 px-6 rounded border-none ml-5 text-white'>RESUME</button>
                             </a>
                         </div>
